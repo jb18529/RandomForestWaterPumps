@@ -1,4 +1,4 @@
-# RandomForestWaterPumps
+# Random Forest Water Pumps
 Random Forest Classification on Water Pump Dataset from Tanzanian Ministry of Water
 Dataset and problem: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/page/23/ 
 
